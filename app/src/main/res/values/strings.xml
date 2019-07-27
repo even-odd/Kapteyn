@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JKH</string>
+    <string name="authorization">Авторизация</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="signInButton">войти</string>
+    <string name="registration">Регистрация</string>
 </resources>
