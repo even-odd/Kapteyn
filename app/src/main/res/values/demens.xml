@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headerTextSize">24sp</dimen>
+    <dimen name="buttonTextSize">15sp</dimen>
+    <dimen name="marginValue">20dp</dimen>
+    <dimen name="paddingValue">50dp</dimen>
+</resources>
