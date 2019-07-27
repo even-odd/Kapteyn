@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_vertical"
-    android:padding="50dp"
+    android:padding="@dimen/paddingValue"
     tools:context=".MainActivity">
 
     <TextView
@@ -15,8 +15,8 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:text="@string/authorization"
-        android:textSize="24sp"
-        android:layout_marginBottom="20dp"
+        android:textSize="@dimen/headerTextSize"
+        android:layout_marginBottom="@dimen/marginValue"
         android:textColor="@color/colorSecondaryText"/>
 
     <EditText
@@ -38,16 +38,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/signInButton"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="@dimen/marginValue"
         android:layout_gravity="center"
-        android:textSize="15sp"
+        android:textSize="@dimen/buttonTextSize"
         style="@style/ButtonStyle"/>
 
     <TextView
         android:id="@+id/registration"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="@dimen/marginValue"
         android:text="@string/registration"
         android:textColor="@color/colorSecondaryText"
         android:textSize="15sp"

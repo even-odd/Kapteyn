@@ -5,4 +5,8 @@
     <string name="password">Пароль</string>
     <string name="signInButton">войти</string>
     <string name="registration">Регистрация</string>
+    <string name="firstName">Имя</string>
+    <string name="lastName">Фамилия</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="checkPassword">Повторите пароль еще раз</string>
 </resources>
