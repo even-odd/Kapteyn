@@ -1,0 +1,18 @@
+.task-list {
+   padding: 10px;
+}
+
+.task-headers {
+    display: flex;
+}
+
+.header-title {
+    padding: 10px;
+    text-align: center;
+}
+
+.header-title.name-task,
+.header-title.category-task {
+    min-width: 100px;
+}
+
